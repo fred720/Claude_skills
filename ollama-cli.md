@@ -5,9 +5,9 @@ Create a new Ollama CLI agent to execute the command.
 ## Variables
 
 DEFAULT_MODEL: gpt-oss
-HEAVY_MODEL: deepseek-v3.2:cloud
+HEAVY_MODEL: deepseek-v4-flash:cloud
 BASE_MODEL: gpt-oss
-FAST_MODEL: deepseek-v3.2:cloud
+FAST_MODEL: deepseek-v4-flash:cloud
 
 ## Instructions
 
